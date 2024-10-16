@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HUAWEI\\source\\repos\\Encapsulation4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59463897-70EE-4E38-A2F1-6095C5CF9E11}|Encapsulation4\\Encapsulation4.csproj|c:\\users\\huawei\\source\\repos\\encapsulation4\\encapsulation4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59463897-70EE-4E38-A2F1-6095C5CF9E11}|Encapsulation4\\Encapsulation4.csproj|solutionrelative:encapsulation4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59463897-70EE-4E38-A2F1-6095C5CF9E11}|Encapsulation4\\Encapsulation4.csproj|c:\\users\\huawei\\source\\repos\\encapsulation4\\encapsulation4\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59463897-70EE-4E38-A2F1-6095C5CF9E11}|Encapsulation4\\Encapsulation4.csproj|solutionrelative:encapsulation4\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59463897-70EE-4E38-A2F1-6095C5CF9E11}|Encapsulation4\\Encapsulation4.csproj|c:\\users\\huawei\\source\\repos\\encapsulation4\\encapsulation4\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59463897-70EE-4E38-A2F1-6095C5CF9E11}|Encapsulation4\\Encapsulation4.csproj|solutionrelative:encapsulation4\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59463897-70EE-4E38-A2F1-6095C5CF9E11}|Encapsulation4\\Encapsulation4.csproj|c:\\users\\huawei\\source\\repos\\encapsulation4\\encapsulation4\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59463897-70EE-4E38-A2F1-6095C5CF9E11}|Encapsulation4\\Encapsulation4.csproj|solutionrelative:encapsulation4\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 219,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HUAWEI\\source\\repos\\Encapsulation4\\Encapsulation4\\Program.cs",
+              "RelativeDocumentMoniker": "Encapsulation4\\Program.cs",
+              "ToolTip": "C:\\Users\\HUAWEI\\source\\repos\\Encapsulation4\\Encapsulation4\\Program.cs",
+              "RelativeToolTip": "Encapsulation4\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAAAcAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T18:55:31.838Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\HUAWEI\\source\\repos\\Encapsulation4\\Encapsulation4\\Product.cs",
+              "RelativeDocumentMoniker": "Encapsulation4\\Product.cs",
+              "ToolTip": "C:\\Users\\HUAWEI\\source\\repos\\Encapsulation4\\Encapsulation4\\Product.cs",
+              "RelativeToolTip": "Encapsulation4\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T19:06:16.78Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\HUAWEI\\source\\repos\\Encapsulation4\\Encapsulation4\\Book.cs",
+              "RelativeDocumentMoniker": "Encapsulation4\\Book.cs",
+              "ToolTip": "C:\\Users\\HUAWEI\\source\\repos\\Encapsulation4\\Encapsulation4\\Book.cs",
+              "RelativeToolTip": "Encapsulation4\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T19:20:05.472Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\Users\\HUAWEI\\source\\repos\\Encapsulation4\\Encapsulation4\\Library.cs",
+              "RelativeDocumentMoniker": "Encapsulation4\\Library.cs",
+              "ToolTip": "C:\\Users\\HUAWEI\\source\\repos\\Encapsulation4\\Encapsulation4\\Library.cs",
+              "RelativeToolTip": "Encapsulation4\\Library.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T19:31:11.145Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

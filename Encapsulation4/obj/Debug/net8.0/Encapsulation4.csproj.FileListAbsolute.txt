@@ -1,0 +1,14 @@
+C:\Users\HUAWEI\source\repos\Encapsulation4\Encapsulation4\bin\Debug\net8.0\Encapsulation4.exe
+C:\Users\HUAWEI\source\repos\Encapsulation4\Encapsulation4\bin\Debug\net8.0\Encapsulation4.deps.json
+C:\Users\HUAWEI\source\repos\Encapsulation4\Encapsulation4\bin\Debug\net8.0\Encapsulation4.runtimeconfig.json
+C:\Users\HUAWEI\source\repos\Encapsulation4\Encapsulation4\bin\Debug\net8.0\Encapsulation4.dll
+C:\Users\HUAWEI\source\repos\Encapsulation4\Encapsulation4\bin\Debug\net8.0\Encapsulation4.pdb
+C:\Users\HUAWEI\source\repos\Encapsulation4\Encapsulation4\obj\Debug\net8.0\Encapsulation4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HUAWEI\source\repos\Encapsulation4\Encapsulation4\obj\Debug\net8.0\Encapsulation4.AssemblyInfoInputs.cache
+C:\Users\HUAWEI\source\repos\Encapsulation4\Encapsulation4\obj\Debug\net8.0\Encapsulation4.AssemblyInfo.cs
+C:\Users\HUAWEI\source\repos\Encapsulation4\Encapsulation4\obj\Debug\net8.0\Encapsulation4.csproj.CoreCompileInputs.cache
+C:\Users\HUAWEI\source\repos\Encapsulation4\Encapsulation4\obj\Debug\net8.0\Encapsulation4.dll
+C:\Users\HUAWEI\source\repos\Encapsulation4\Encapsulation4\obj\Debug\net8.0\refint\Encapsulation4.dll
+C:\Users\HUAWEI\source\repos\Encapsulation4\Encapsulation4\obj\Debug\net8.0\Encapsulation4.pdb
+C:\Users\HUAWEI\source\repos\Encapsulation4\Encapsulation4\obj\Debug\net8.0\Encapsulation4.genruntimeconfig.cache
+C:\Users\HUAWEI\source\repos\Encapsulation4\Encapsulation4\obj\Debug\net8.0\ref\Encapsulation4.dll
